@@ -1,4 +1,4 @@
-# 🎣 Phishing Security Awareness Training
+# Phishing Security Awareness Training
 
 ## Simulation Report
 
@@ -8,7 +8,7 @@
 
 ---
 
-# 1️⃣ Overview
+# 1️ Overview
 
 A phishing simulation was conducted across the **Production (30 employees)**, **IT (40 employees)**, and **HR (35 employees)** departments to evaluate the effectiveness of previous phishing awareness training initiatives.
 
@@ -24,7 +24,7 @@ These findings indicate measurable improvement in organizational security cultur
 
 ---
 
-# 2️⃣ Objectives
+# 2️ Objectives
 
 * Reduce phishing link click-through rates among employees
 * Increase phishing incident reports submitted to the security team
@@ -33,7 +33,7 @@ These findings indicate measurable improvement in organizational security cultur
 
 ---
 
-# 3️⃣ Compliance Drivers
+# 3️ Compliance Drivers
 
 ## ISO 27001 A.7.2.2 — Awareness, Education & Training
 
@@ -45,7 +45,7 @@ Addresses phishing and credential-harvesting threats identified as high-risk att
 
 ---
 
-# 4️⃣ Tooling
+# 4️ Tooling
 ```
 | Tool                        | Purpose                                                              |
 | --------------------------- | -------------------------------------------------------------------- |
@@ -56,7 +56,7 @@ Addresses phishing and credential-harvesting threats identified as high-risk att
 ```
 ---
 
-# 5️⃣ Simulation Scenario
+# 5️ Simulation Scenario
 
 ## Microsoft 365 Email Verification Campaign
 
@@ -72,7 +72,7 @@ The objective was to measure:
 
 ---
 
-# 5.1️⃣ Phishing Email Template
+# 5.1️ Phishing Email Template
 
 Subject: Action Required: Verify Your Microsoft 365 Email Account
 
@@ -94,7 +94,7 @@ EmiratesGas.ai
 
 ---
 
-# 6️⃣ Metrics
+# 6️ Metrics
 
 ## Before Awareness Training
 ```
@@ -120,9 +120,9 @@ The post-training simulation demonstrated significant improvement across all dep
 | IT         | 40               | 3            | 0                     | 40       | 7.5%           | 0%                  | 100%            |
 | HR         | 35               | 6            | 4                     | 31       | 17%            | 11.4%               | 88.6%           |
 ```
----[
+---
 
-# 7️⃣ Analysis
+# 7️ Analysis
 
 ## Production Department
 
@@ -138,7 +138,7 @@ Slightly higher click and submission rates compared to IT. However, reporting be
 
 ---
 
-# 8️⃣ Recommendations
+# 8️ Recommendations
 
 * Conduct targeted refresher training focused on Microsoft 365 phishing indicators
 * Reinforce suspicious-email reporting procedures organization-wide
@@ -148,8 +148,14 @@ Slightly higher click and submission rates compared to IT. However, reporting be
 
 ---
 
-# 9️⃣ Conclusion
+# 9️ Conclusion
 
 The phishing simulation demonstrates that cybersecurity awareness training is producing measurable improvements across the organization.
 
 Reduced credential submissions and significantly increased reporting rates indicate meaningful progress toward a stronger security culture. Continued awareness reinforcement and regular phishing simulations will help EmiratesGas.ai further reduce phishing-related risks while supporting ISO 27001 compliance objectives.
+
+---
+
+# Prepared by
+## Ahmed Olatunji
+Cybersecurity Analyst
