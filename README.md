@@ -57,6 +57,18 @@ Addresses phishing and credential-harvesting threats identified as high-risk att
 <p align="center">
   <img src="screenshot/01 Kali ZPhisher.png" width="800">
 </p>
+<p align="center">
+  <img src="screenshot/02 Git ZPhisher.png" width="800">
+</p>
+<p align="center">
+  <img src="screenshot/03 Kali ZPhisher.png" width="800">
+</p>
+<p align="center">
+  <img src="screenshot/04 ZPhisher Microsoft Login.png" width="800">
+</p>
+<p align="center">
+  <img src="screenshot/05 ZPhisher Localhost and Submission.png" width="800">
+</p>
 ---
 
 # 5️ Simulation Scenario
@@ -77,23 +89,12 @@ The objective was to measure:
 
 # 5.1️ Phishing Email Template
 
-Subject: Action Required: Verify Your Microsoft 365 Email Account
-
-Dear Employee,
-
-As part of EmiratesGas.ai Microsoft 365 security upgrades, all staff members are required to verify their corporate email account settings before the scheduled maintenance window.
-
-Please confirm your Microsoft email account information using the secure verification portal below:
-
-[Verify Microsoft Account]
-
-Failure to complete verification before 6:00 PM GST may result in temporary interruption to Outlook, Teams, and OneDrive access.
-
-If you believe this email is suspicious, please report it immediately to the IT Security Team.
-
-Regards,
-IT Support Team
-EmiratesGas.ai
+<p align="center">
+  <img src="screenshot/06 Phishing Email Template.png" width="800">
+</p>
+<p align="center">
+  <img src="screenshot/06 Phishing Email Link.png" width="800">
+</p>
 
 ---
 
