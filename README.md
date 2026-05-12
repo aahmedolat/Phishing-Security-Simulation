@@ -54,6 +54,9 @@ Addresses phishing and credential-harvesting threats identified as high-risk att
 | Kali Linux                  | Hosted the testing environment                                       |
 | Google Sheets               | Stored KPIs and simulation metrics                                   |
 ```
+<p align="center">
+  <img src="screenshot/01 Kali ZPhisher.png" width="800">
+</p>
 ---
 
 # 5️ Simulation Scenario
