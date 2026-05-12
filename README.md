@@ -69,6 +69,7 @@ Addresses phishing and credential-harvesting threats identified as high-risk att
 <p align="center">
   <img src="screenshot/05 Kali ZPhisher Localhost and Submission.png" width="800">
 </p>
+
 ---
 
 # 5️ Simulation Scenario
@@ -160,6 +161,5 @@ Reduced credential submissions and significantly increased reporting rates indic
 
 ---
 
-# Prepared by
-## Ahmed Olatunji
-Cybersecurity Analyst
+### Prepared by
+**Ahmed Olatunji** Cybersecurity Analyst
