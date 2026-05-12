@@ -162,4 +162,4 @@ Reduced credential submissions and significantly increased reporting rates indic
 ---
 
 ### Prepared by
-**Ahmed Olatunji** Cybersecurity Analyst
+**Ahmed Olatunji** - Cybersecurity Analyst
