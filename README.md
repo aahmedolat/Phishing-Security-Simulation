@@ -64,10 +64,10 @@ Addresses phishing and credential-harvesting threats identified as high-risk att
   <img src="screenshot/03 Kali ZPhisher.png" width="800">
 </p>
 <p align="center">
-  <img src="screenshot/04 ZPhisher Microsoft Login.png" width="800">
+  <img src="screenshot/04 ZPhisher Microsoft Login Page.png" width="800">
 </p>
 <p align="center">
-  <img src="screenshot/05 ZPhisher Localhost and Submission.png" width="800">
+  <img src="screenshot/05 Kali ZPhisher Localhost and Submission.png" width="800">
 </p>
 ---
 
@@ -93,7 +93,7 @@ The objective was to measure:
   <img src="screenshot/06 Phishing Email Template.png" width="800">
 </p>
 <p align="center">
-  <img src="screenshot/06 Phishing Email Link.png" width="800">
+  <img src="screenshot/07 Phishing Email Link.png" width="800">
 </p>
 
 ---
