@@ -118,13 +118,13 @@ The post-training simulation demonstrated significant improvement across all dep
 * Click rates decreased from **62.5% – 100%** to **7.5% – 17%**
 * Credential submissions dropped from **90%** to near **0%**
 * Reporting rates increased from **10% – 14%** to **88.6% – 100%**
-```
+
 | Department | Employees Tested | Clicked Link | Submitted Credentials | Reported | Click Rate (%) | Submission Rate (%) | Report Rate (%) |
 | ---------- | ---------------- | ------------ | --------------------- | -------- | -------------- | ------------------- | --------------- |
 | Production | 30               | 5            | 2                     | 28       | 16.7%          | 6.7%                | 93.3%           |
 | IT         | 40               | 3            | 0                     | 40       | 7.5%           | 0%                  | 100%            |
 | HR         | 35               | 6            | 4                     | 31       | 17%            | 11.4%               | 88.6%           |
-```
+
 ---
 
 # 7️ Analysis
