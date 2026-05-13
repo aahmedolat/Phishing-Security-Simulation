@@ -46,14 +46,14 @@ Addresses phishing and credential-harvesting threats identified as high-risk att
 ---
 
 # 4️ Tooling
-```
+
 | Tool                        | Purpose                                                              |
 | --------------------------- | -------------------------------------------------------------------- |
 | ZPhisher                    | Generated phishing simulation pages and captured interaction metrics |
 | Localhost / Local Tunneling | Provided controlled internal access during testing                   |
 | Kali Linux                  | Hosted the testing environment                                       |
 | Google Sheets               | Stored KPIs and simulation metrics                                   |
-```
+
 <p align="center">
   <img src="screenshot/01 Kali ZPhisher.png" width="800">
 </p>
