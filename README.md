@@ -102,13 +102,13 @@ The objective was to measure:
 # 6️ Metrics
 
 ## Before Awareness Training
-```
+
 | Department | Employees Tested | Clicked Link | Submitted Credentials | Reported | Click Rate (%) | Submission Rate (%) | Report Rate (%) |
 | ---------- | ---------------- | ------------ | --------------------- | -------- | -------------- | ------------------- | --------------- |
 | Production | 30               | 30           | 27                    | 3        | 100%           | 90%                 | 10%             |
 | IT         | 40               | 25           | 2                     | 38       | 62.5%          | 5%                  | 95%             |
 | HR         | 35               | 35           | 30                    | 5        | 100%           | 86%                 | 14%             |
-```
+
 ---
 
 ## Post-Awareness Training Results
